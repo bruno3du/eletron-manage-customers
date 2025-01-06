@@ -33,7 +33,7 @@ linux:
     - AppImage
     - deb
     - rpm
-    - freebsb
+    - freebsd
   maintainer: brunoeduardo.tech
   synopsis: ${description}
   category: Utility
